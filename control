@@ -1,0 +1,9 @@
+Package: com.aids.makecydiabuyagain
+Name: MakeCydiaBuyAgain
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Enable Cydia to purchase any package on iOS 11+
+Maintainer: Jake Ihasz
+Author: Jake Ihasz
+Section: Tweaks
